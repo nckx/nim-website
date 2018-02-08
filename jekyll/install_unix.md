@@ -114,6 +114,12 @@ docker pull nimlang/nim:devel
 pkg install nim
 ```
 
+## GNU Guix
+
+```
+guix package --install nim
+```
+
 ## macOS
 
 ```
